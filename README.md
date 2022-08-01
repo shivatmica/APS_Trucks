@@ -7,12 +7,17 @@ HoeffdingTree is also known as Very Fast Decision Tree (VFDT) is an incremental,
 This code tests the accuracy, error rate of VFDT on ASP dataset available at the following link:
 https://www.kaggle.com/datasets/uciml/aps-failure-at-scania-trucks-data-set/code?select=aps_failure_test_set.csv
 
+Results:
+
+Hoeffding Tree accuracy: 0.9616
+Error Rate: $3.8%$
+
 
 #
 Parameters of the model:
 
- 'binary_split': False,
- 
+ 'binary_split': False,Hoeffding Tree accuracy: 0.9616
+  
  'grace_period': 200,
  
  'leaf_prediction': 'nb',
@@ -38,7 +43,6 @@ Parameters of the model:
  'tie_threshold': 0.05
 
 #
-Error Rate: $3.8%$
 #
 
 Active leaf byte size estimate: 0.0,
