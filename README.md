@@ -34,7 +34,7 @@ Parameters of the model:
 }
 
 #
-Error Rate: 6.2% (62 False Positives)
+Error Rate: $3.8%$
 #
 
 Active leaf byte size estimate: 0.0,
