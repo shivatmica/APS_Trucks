@@ -1,6 +1,7 @@
 # ASP_Trucks
 
 Parameters of the model:
+
 {
  
  'binary_split': False,
@@ -28,9 +29,12 @@ Parameters of the model:
  'stop_mem_management': False,
  
  'tie_threshold': 0.05
+
 }
 
+
 Error Rate: 6.2% (62 False Positives)
+
 
 Active leaf byte size estimate: 0.0,
 
