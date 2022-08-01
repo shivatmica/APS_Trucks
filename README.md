@@ -1,4 +1,4 @@
-# ASP_Trucks
+# APS_Trucks
 
 This is a test implementation for HoeffdingTree classifier implementation from scikit-multiflow.
 
