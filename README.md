@@ -1,5 +1,6 @@
 # ASP_Trucks
 
+#
 Parameters of the model:
 
 {
@@ -49,3 +50,4 @@ Tree depth: 0,
 Tree size (leaves): 1,
 
 Tree size (nodes): 1
+#
