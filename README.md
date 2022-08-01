@@ -1,10 +1,16 @@
 # ASP_Trucks
 
+This is a test implementation for HoeffdingTree classifier implementation from scikit-multiflow.
+
+HoeffdingTree is also known as Very Fast Decision Tree (VFDT) is an incremental, anytime decision tree induction algorithm which is capable of learning from massive data streams.
+
+This code tests the accuracy, error rate of VFDT on ASP dataset available at the following link:
+https://www.kaggle.com/datasets/uciml/aps-failure-at-scania-trucks-data-set/code?select=aps_failure_test_set.csv
+
+
 #
 Parameters of the model:
 
-{
- 
  'binary_split': False,
  
  'grace_period': 200,
@@ -30,8 +36,6 @@ Parameters of the model:
  'stop_mem_management': False,
  
  'tie_threshold': 0.05
-
-}
 
 #
 Error Rate: $3.8%$
